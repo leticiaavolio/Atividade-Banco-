@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="forms\FrmCriarConta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\FrmDepositar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\FrmFecharConta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\FrmSacar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\FrmTransferir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\FrmVerSaldo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
